@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: 12304sjl@163.com
+- 👯 Something to talk: [blog](https://www.cnblogs.com/jialeshen)
 ```
        _ _       _         _____ _                
       | (_)     | |       / ____| |               
